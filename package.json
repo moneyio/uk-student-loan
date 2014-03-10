@@ -1,6 +1,6 @@
 {
   "name": "uk-student-loan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UK Student Loan Calculator",
   "main": "index.js",
   "scripts": {

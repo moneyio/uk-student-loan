@@ -8,6 +8,6 @@ Usage options:
     var StudentLoanCalculator = require('uk-student-loan');
     var annualStudentLoanRepayment = StudentLoanCalculator(40000);
 
-Resulting in tc:
+Resulting in `annualStudentLoanRepayment`:
 
     1710
