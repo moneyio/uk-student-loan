@@ -1,0 +1,25 @@
+{
+  "name": "uk-student-loan",
+  "version": "0.0.1",
+  "description": "UK Student Loan Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:moneyio/uk-student-loan.git"
+  },
+  "keywords": [
+    "money",
+    "uk",
+    "student loan",
+    "calculator"
+  ],
+  "author": "James Broad <hello@moneyio.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moneyio/uk-student-loan/issues"
+  },
+  "dependencies" : ["nodeunit"]
+}
